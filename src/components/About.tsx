@@ -75,7 +75,7 @@ export default function About() {
                                     initial={{ opacity: 0, y: 20 }}
                                     whileInView={{ opacity: 1, y: 0 }}
                                 >
-                                    I'm a <span className="text-white">Computer Science & Software Engineering graduate</span> from the University of Washington, passionate about building innovative software solutions. I focus in backend development, with hands-on experience in software engineering through my internships and projects.
+                                    I'm a <span className="text-white">Computer Science & Software Engineering graduate</span> from the University of Washington, passionate about building innovative software solutions. I focus in backend development, with hands-on experience in software engineering through past internships and projects.
                                 </motion.p>
                             </div>
                         </div>
