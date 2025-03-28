@@ -33,8 +33,6 @@ Check out the live version here: [🔗 Live Demo](http://vincentw.dev/)
 
 ## 🚀 Getting Started
 
-### 1. Clone the repo
-
 ```bash
 git clone https://github.com/iZyns/3D-portfolio-web.git
 cd 3D-portfolio-web
