@@ -17,8 +17,7 @@ A modern, fully responsive 3D portfolio website built with Three.js and React �
 
 ## 📸 Demo
 
-Check out the live version here: [🔗 Live Demo](http://vincentw.dev/)  
-**
+Check out the live version here: [🔗 Live Demo](http://vincentw.dev/) 
 
 ---
 
