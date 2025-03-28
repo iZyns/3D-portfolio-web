@@ -2,8 +2,6 @@
 
 A modern, fully responsive 3D portfolio website built with Three.js and React — designed to showcase your work, skills, and creativity in an immersive, interactive way.
 
-> ✅ **Status: Production-Ready**
-
 ---
 
 ## ✨ Features
