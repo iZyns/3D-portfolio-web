@@ -182,7 +182,7 @@ const Hero = () => {
                                 style={{ y, opacity }}
                             >
                                 <span className="relative inline-block">
-                                    Full Stack Developer
+                                     Software Engineer
                                     <span className="absolute -inset-1 bg-white/10 blur-xl rounded-full" />
                                 </span>
                             </motion.p>
